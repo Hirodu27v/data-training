@@ -14,7 +14,6 @@ If you're not familiar with Github and would like to help, here is a suggested w
 * Create a folder for your language on your computer and store translated files inside (preferably in the same file structure we use) 
 * When you are ready to upload a new file or folder back to Github, go to the copy of data-training in your own Github account, hit “upload files” and drag your language folder and the translated files inside into Github. Scroll down and type a message and hit the green commit button. 
 * When you are ready to integrate your changes with ours, hit “new pull request” from data-training page on your Github account. Then, create pull request. 
-
 You may also find it helpful to refer to this overview of the [Github workflow.](https://guides.github.com/introduction/flow/)
 
 Questions? Contact Lindsey Cook at lindsey.cook@nytimes.com. 
